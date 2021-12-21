@@ -1,0 +1,3 @@
+/home/dani/CLionProjects/diagramLuch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dani/CLionProjects/diagramLuch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dani/CLionProjects/diagramLuch/cmake-build-debug/CMakeFiles/diagramLuch.dir

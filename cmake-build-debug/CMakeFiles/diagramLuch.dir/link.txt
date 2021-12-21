@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/diagramLuch.dir/main.cpp.o -o diagramLuch 
